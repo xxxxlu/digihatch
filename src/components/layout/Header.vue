@@ -6,7 +6,7 @@
         <p>Eid Delivery (Nationwide by March 25, In Punjab by March 26, Only in Lahore by March 28.)</p>
         <div class="contact-info">
           <a href="#">
-            <i class="fas fa-envelope"></i> pursebazar@zontec.club
+            <i class="fas fa-envelope"></i> digihatch@zontec.club
           </a>
         </div>
       </div>
@@ -18,7 +18,7 @@
         <div class="header-content">
           <!-- Logo -->
           <router-link to="/" class="logo">
-            <!-- <img src="@/assets/images/logo.png" alt="Purse Bazar" /> -->
+            <img src="../../assets/digihatch.png" alt="digihatch" />
           </router-link>
 
           <!-- Navigation -->
