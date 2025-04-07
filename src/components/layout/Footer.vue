@@ -13,22 +13,6 @@
             <i class="fas fa-envelope"></i>
             <p>digihatch@zontec.club</p>
           </div>
-
-          <!-- Social Media Links -->
-          <!-- <div class="social-links">
-            <a href="https://www.facebook.com/pursebazarsupport" target="_blank" title="Follow on Facebook">
-              <i class="fab fa-facebook-f"></i>
-            </a>
-            <a href="https://www.instagram.com/pursebazarteam/" target="_blank" title="Follow on Instagram">
-              <i class="fab fa-instagram"></i>
-            </a>
-            <a href="https://www.youtube.com/@pursebazar" target="_blank" title="Follow on YouTube">
-              <i class="fab fa-youtube"></i>
-            </a>
-            <a href="https://www.tiktok.com/@pursebazar" target="_blank" title="Follow on Tiktok">
-              <i class="fab fa-tiktok"></i>
-            </a>
-          </div> -->
         </div>
 
         <!-- Our Menu -->
@@ -64,7 +48,7 @@
 
       <!-- Copyright -->
       <div class="copyright">
-        <p>Copyright ©  {{ currentYear }} | Powered by Data Network Solutions</p>
+        <p>Copyright ©  {{ currentYear }} | Powered by Data Network Solutions (SMC-Private) Limited</p>
       </div>
     </div>
   </footer>
