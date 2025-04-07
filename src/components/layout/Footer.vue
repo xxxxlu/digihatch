@@ -11,7 +11,7 @@
           </div>
           <div class="contact-item">
             <i class="fas fa-envelope"></i>
-            <p>pursebazar@gmail.com.com</p>
+            <p>digihatch@zontec.club</p>
           </div>
 
           <!-- Social Media Links -->
