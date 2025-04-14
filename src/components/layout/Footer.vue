@@ -48,7 +48,7 @@
 
       <!-- Copyright -->
       <div class="copyright">
-        <p>Copyright ©  {{ currentYear }} | Powered by Data Network Solutions (SMC-Private) Limited</p>
+        <p>Copyright © 2025 Digihatch. Powered by DATA TECH SOLUTIONS SMC PRIVATE LIMITED2</p>
       </div>
     </div>
   </footer>
