@@ -48,7 +48,7 @@
 
       <!-- Copyright -->
       <div class="copyright">
-        <p>Copyright © 2025 Digihatch. Powered by DATA TECH SOLUTIONS SMC PRIVATE LIMITED2</p>
+        <p>Copyright © 2025 Digihatch Store Powered by DATA TECH SOLUTIONS SMC PRIVATE LIMITED2</p>
       </div>
     </div>
   </footer>
