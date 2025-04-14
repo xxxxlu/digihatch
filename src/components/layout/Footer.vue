@@ -6,12 +6,8 @@
         <div class="footer-column contact-info">
           <h3>Get in touch</h3>
           <div class="contact-item">
-            <i class="fas fa-map-marker-alt"></i>
-            <p>Office # 700, Block A-1 Township, Lahore</p>
-          </div>
-          <div class="contact-item">
             <i class="fas fa-envelope"></i>
-            <p>digihatch@zontec.club</p>
+            <p>digihatch@digihatch.shop</p>
           </div>
         </div>
 
